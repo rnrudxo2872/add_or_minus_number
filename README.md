@@ -1,2 +1,2 @@
 # Hi!
-watch my movie app!
+simple app!
