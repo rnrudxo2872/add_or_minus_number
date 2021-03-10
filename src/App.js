@@ -9,11 +9,11 @@ class App extends Component {
         AppNumber: this.state.AppNumber + 1
       })
     }
-  minus = () =>{    
-    this.setState({
-      AppNumber: this.state.AppNumber - 1
-    })
-  }
+    minus = () =>{    
+      this.setState({
+        AppNumber: this.state.AppNumber - 1
+      })
+    }
   render(){
     return(
       <div className="App">
